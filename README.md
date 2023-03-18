@@ -18,4 +18,4 @@ If you  find this code useful for your research, please consider citing the foll
 
 
 ## Acknowledgements
-The code is mainly based on ([Simple Baseline](https://github.com/microsoft/human-pose-estimation.pytorch) and ([HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch). Some code comes from ([DarkPose](https://github.com/ilovepose/DarkPose) and ([Semi-human-pose](https://github.com/xierc/Semi_Human_Pose). Thanks for their works.
+The code is mainly based on [Simple Baseline](https://github.com/microsoft/human-pose-estimation.pytorch) and [HRNet](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch). Some code comes from [DarkPose](https://github.com/ilovepose/DarkPose) and [Semi-human-pose](https://github.com/xierc/Semi_Human_Pose). Thanks for their works.
